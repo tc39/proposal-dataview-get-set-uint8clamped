@@ -26,15 +26,15 @@ contributors: Jordan Harband
           1. Return ? GetViewValue(_v_, _byteOffset_, *true*, ~Uint8C~).
         </emu-alg>
       </emu-clause>
-    </emu-clause>
 
-    <emu-clause id="sec-dataview.prototype.setuint8c" number="23">
-      <h1>DataView.prototype.setUint8C ( _byteOffset_, _value_ )</h1>
-      <p>This method performs the following steps when called:</p>
-      <emu-alg>
-        1. Let _v_ be the *this* value.
-        1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~Uint8C~, _value_).
-      </emu-alg>
+      <emu-clause id="sec-dataview.prototype.setuint8c" number="23">
+        <h1>DataView.prototype.setUint8C ( _byteOffset_, _value_ )</h1>
+        <p>This method performs the following steps when called:</p>
+        <emu-alg>
+          1. Let _v_ be the *this* value.
+          1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~Uint8C~, _value_).
+        </emu-alg>
+      </emu-clause>
     </emu-clause>
   </emu-clause>
 </emu-clause>
