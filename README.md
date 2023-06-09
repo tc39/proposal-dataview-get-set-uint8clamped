@@ -21,91 +21,91 @@ Here's a matrix representing the consistently available functionality for each o
   <tbody>
     <tr>
       <td>Int8Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Uint8Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Uint8ClampedArray</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
       <td>:x:</td>
       <td>:x:</td>
     </tr>
     <tr>
       <td>Int16Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Uint16Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Int32Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Uint32Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>BigInt64Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>BigUint64Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Float32Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
     <tr>
       <td>Float64Array</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:heavy_check_mark:</td>
-      <td>:x:</td>
-      <td>:x:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
+      <td>:white_check_mark:</td>
     </tr>
   </tbody>
 </table>
