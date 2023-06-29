@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
 <script src="./spec.js"></script>
 <pre class="metadata">
-title: DataView get/set Uint8C methods
+title: DataView get/set Uint8Clamped methods
 stage: 0
 contributors: Jordan Harband
 </pre>
@@ -19,20 +19,20 @@ contributors: Jordan Harband
       <h1>Properties of the DataView Prototype Object</h1>
 
       <emu-clause id="sec-dataview.prototype.getuint8c" number="13">
-        <h1>DataView.prototype.getUint8C ( _byteOffset_ )</h1>
+        <h1>DataView.prototype.getUint8Clamped ( _byteOffset_ )</h1>
         <p>This method performs the following steps when called:</p>
         <emu-alg>
           1. Let _v_ be the *this* value.
-          1. Return ? GetViewValue(_v_, _byteOffset_, *true*, ~Uint8C~).
+          1. Return ? GetViewValue(_v_, _byteOffset_, *true*, ~Uint8Clamped~).
         </emu-alg>
       </emu-clause>
 
       <emu-clause id="sec-dataview.prototype.setuint8c" number="23">
-        <h1>DataView.prototype.setUint8C ( _byteOffset_, _value_ )</h1>
+        <h1>DataView.prototype.setUint8Clamped ( _byteOffset_, _value_ )</h1>
         <p>This method performs the following steps when called:</p>
         <emu-alg>
           1. Let _v_ be the *this* value.
-          1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~Uint8C~, _value_).
+          1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~Uint8Clamped~, _value_).
         </emu-alg>
       </emu-clause>
     </emu-clause>

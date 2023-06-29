@@ -1,4 +1,4 @@
-# DataView get/set Uint8C methods
+# DataView get/set Uint8Clamped methods
 
 There are currently 11 kinds of Typed Array in the language.
 
