@@ -2,6 +2,8 @@
 
 There are currently 11 kinds of Typed Array in the language.
 
+Stage: 1
+
 ## Problem
 Only 10 of them have DataView get/set methods.
 
