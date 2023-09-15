@@ -4,6 +4,10 @@ There are currently 11 kinds of Typed Array in the language.
 
 Stage: 1
 
+## Motivation/Use Case
+
+I'd like to dynamically dispatch to DataView methods based on the "type" of the Typed Array. This works great for all of the types except Uint8Clamped.
+
 ## Problem
 Only 10 of them have DataView get/set methods.
 
