@@ -23,7 +23,7 @@ contributors: Jordan Harband
         <p>This method performs the following steps when called:</p>
         <emu-alg>
           1. Let _v_ be the *this* value.
-          1. Return ? GetViewValue(_v_, _byteOffset_, *true*, ~Uint8Clamped~).
+          1. Return ? GetViewValue(_v_, _byteOffset_, *true*, ~uint8clamped~).
         </emu-alg>
       </emu-clause>
 
@@ -32,7 +32,7 @@ contributors: Jordan Harband
         <p>This method performs the following steps when called:</p>
         <emu-alg>
           1. Let _v_ be the *this* value.
-          1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~Uint8Clamped~, _value_).
+          1. Return ? SetViewValue(_v_, _byteOffset_, *true*, ~uint8clamped~, _value_).
         </emu-alg>
       </emu-clause>
     </emu-clause>
