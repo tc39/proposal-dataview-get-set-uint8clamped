@@ -119,3 +119,6 @@ Here's a matrix representing the consistently available functionality for each o
 ## Solution
 
 Add the get and set methods to round out Typed Array support.
+
+## Use Cases
+ - dynamic dispatch based on Typed Array type: https://github.com/esfx/esfx/blob/main/packages/struct-type/src/internal/numbers.ts#L122-L133
